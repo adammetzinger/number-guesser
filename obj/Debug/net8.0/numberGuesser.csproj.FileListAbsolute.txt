@@ -1,0 +1,14 @@
+/Users/adammetzinger/code/C#-learning/numberGuesser/bin/Debug/net8.0/numberGuesser
+/Users/adammetzinger/code/C#-learning/numberGuesser/bin/Debug/net8.0/numberGuesser.deps.json
+/Users/adammetzinger/code/C#-learning/numberGuesser/bin/Debug/net8.0/numberGuesser.runtimeconfig.json
+/Users/adammetzinger/code/C#-learning/numberGuesser/bin/Debug/net8.0/numberGuesser.dll
+/Users/adammetzinger/code/C#-learning/numberGuesser/bin/Debug/net8.0/numberGuesser.pdb
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.AssemblyInfoInputs.cache
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.AssemblyInfo.cs
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.csproj.CoreCompileInputs.cache
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.dll
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/refint/numberGuesser.dll
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.pdb
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/numberGuesser.genruntimeconfig.cache
+/Users/adammetzinger/code/C#-learning/numberGuesser/obj/Debug/net8.0/ref/numberGuesser.dll
